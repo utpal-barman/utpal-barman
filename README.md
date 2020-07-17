@@ -16,7 +16,7 @@ Talk to me about
 - Mobile application development using **Flutter and Kotlin**
 
 ## Want More Info? 🤔
-- 🎯 Visit my Portfolio site: [Portfolio](https://utpal-barman.github.io/Portfolio-Site/index.html)
+- 🎯 Visit my Portfolio site: [utpal-barman.github.io](https://utpal-barman.github.io/)
 
 
 
