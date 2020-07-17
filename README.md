@@ -1,11 +1,11 @@
-<h2> Hi there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-utpal-barman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utpal-barman/)](https://www.linkedin.com/in/utpal-barman/) 
+[![Linkedin Badge](https://img.shields.io/badge/-utpal—barman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utpal-barman/)](https://www.linkedin.com/in/utpal-barman/) 
 [![Gmail Badge](https://img.shields.io/badge/-utpal.barman.bd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utpal.barman.bd@gmail.com)](mailto:utpal.barman.bd@gmail.com)
 
-I am Utpal Barman 😃. I am from Dhaka, Bangladesh and currently working as a Software Engineer at HeavyTask 🏫.I love to explore and learn about new things.
+I am Utpal Barman 😃  I am from Dhaka, Bangladesh and currently working as a Software Engineer at HeavyTask 🏫.I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about
