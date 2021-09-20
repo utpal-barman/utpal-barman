@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-utpal—barman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utpal-barman/)](https://www.linkedin.com/in/utpal-barman/) 
 [![Gmail Badge](https://img.shields.io/badge/-utpal.barman.bd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utpal.barman.bd@gmail.com)](mailto:utpal.barman.bd@gmail.com)
 
-I am Utpal Barman 😃  I am from Dhaka, Bangladesh and currently working as a Software Engineer at Monstarlab Bangladesh Ltd 🏫.I love to explore and learn about new things.
+I am Utpal Barman 😃  I am from Dhaka, Bangladesh and currently working as a Software Engineer at Monstarlab Bangladesh Ltd.I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about
