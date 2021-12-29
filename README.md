@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-utpal—barman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utpal-barman/)](https://www.linkedin.com/in/utpal-barman/) 
 [![Gmail Badge](https://img.shields.io/badge/-utpal.barman.bd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utpal.barman.bd@gmail.com)](mailto:utpal.barman.bd@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-utpal.barman@monstar%E2%80%94lab.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utpal.barman@monstar-lab.com)](mailto:utpal.barman@monstar-lab.com)
+[![Gmail Badge](https://img.shields.io/badge/-utpal.barman@monstar%E2%80%94lab.com-fdff00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utpal.barman@monstar-lab.com)](mailto:utpal.barman@monstar-lab.com)
 
 I am Utpal Barman 😃  I am from Dhaka, Bangladesh and currently working as a Software Engineer at Monstarlab Bangladesh Ltd. I love to explore and learn about new things.
 
