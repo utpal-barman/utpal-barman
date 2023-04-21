@@ -32,7 +32,7 @@
 
 ![Tech Stack](https://img.shields.io/badge/Back--end-Express-orange?logo=Express&style=for-the-badge)
 
-## Want More Info? 🤔
+## 🤔 Want More Info? 
 - 🎯 Visit my Portfolio site: [utpal-barman.github.io](https://utpal-barman.github.io/) / [utpals.com](https://utpals.com/)
 
 
