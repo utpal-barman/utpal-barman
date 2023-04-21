@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=utpal-barman&color=brightgreen&style=for-the-badge)
 
+---
 
-
-<h2> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1> Hello from Utpal Barman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="56px"></h1>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -10,9 +10,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-utpal.barman.bd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utpal.barman.bd@gmail.com)](mailto:utpal.barman.bd@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-utpal.barman@monstar%E2%80%94lab.com-fdff00?style=flat-square&logo=Gmail&logoColor=grey&link=mailto:utpal.barman@monstar-lab.com)](mailto:utpal.barman@monstar-lab.com)
 
-👋  I'm Utpal Barman - a boundary-pushing Software Engineer from the vibrant city of Dhaka, Bangladesh. 💻
 
-Currently, I'm working at Monstarlab Bangladesh Ltd, where I unleash my inner genius to create slick mobile experiences using cutting-edge tools like Flutter and Kotlin. 🚀
+
+- 🧑‍💻 Software Engineer at [Monstarlab](https://monstar-lab.com/global/) in Dhaka, Bangladesh 🇧🇩
+
+- 🛠️ Maintaining the [`u_credit_card`](https://pub.dev/packages/u_credit_card) flutter package in my free time
+
+- 💬 Ask me about CLEAN architecture, Flutter and Dart
+
+- 😄 Pronouns: he/him/his
+
+
+
 
 ---
 
@@ -26,7 +35,7 @@ Currently, I'm working at Monstarlab Bangladesh Ltd, where I unleash my inner ge
 ![Tech Stack](https://img.shields.io/badge/Back--end-Express-orange?logo=Express&style=for-the-badge)
 
 ## Want More Info? 🤔
-- 🎯 Visit my Portfolio site: [utpal-barman.github.io](https://utpal-barman.github.io/)
+- 🎯 Visit my Portfolio site: [utpal-barman.github.io](https://utpal-barman.github.io/) / [utpals.com](https://utpals.com/)
 
 
 
