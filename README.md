@@ -18,8 +18,6 @@
 
 - 💬 Ask me about CLEAN architecture, Flutter and Dart
 
-- 😄 Pronouns: he/him/his
-
 
 
 
