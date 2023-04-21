@@ -38,5 +38,5 @@
 
 
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utpal-barman&theme=vision_friendly_dark)
 
