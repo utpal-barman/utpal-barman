@@ -14,7 +14,7 @@
 
 - 🧑‍💻 Software Engineer at [Monstarlab](https://monstar-lab.com/global/) in Dhaka, Bangladesh 🇧🇩
 
-- 🛠️ Maintaining the [`u_credit_card`](https://pub.dev/packages/u_credit_card) flutter package in my free time
+- 🛠️ Maintaining some of my open source Flutter packages in my free time ([`u_credit_card`](https://pub.dev/packages/u_credit_card))
 
 - 💬 Ask me about CLEAN architecture, Flutter and Dart
 
