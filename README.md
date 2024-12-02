@@ -8,11 +8,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-utpal—barman-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utpal-barman/)](https://www.linkedin.com/in/utpal-barman/) 
 [![Gmail Badge](https://img.shields.io/badge/-utpal.barman.bd@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:utpal.barman.bd@gmail.com)](mailto:utpal.barman.bd@gmail.com)
-[![Work Email Badge](https://img.shields.io/badge/-utpal.barman@monstar—lab.com-fdff00?style=for-the-badge&logo=Gmail&logoColor=grey&link=mailto:utpal.barman@monstar-lab.com)](mailto:utpal.barman@monstar-lab.com)
 
 ---
 
-🧑‍💻 **Senior Mobile Engineer - I**  @  [Monstarlab](https://monstar-lab.com/global/)  
+🧑‍💻 
 📍 **Location:** Dhaka, Bangladesh 🇧🇩  
 🛠️ **Maintainer** of open-source Flutter packages ([`u_credit_card`](https://pub.dev/packages/u_credit_card))  
 
