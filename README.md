@@ -11,7 +11,7 @@
 
 ---
 
-🧑‍💻 
+🧑‍💻 Lead Engineer - I  @ **Brain Station 23 PLC**
 📍 **Location:** Dhaka, Bangladesh 🇧🇩  
 🛠️ **Maintainer** of open-source Flutter packages ([`u_credit_card`](https://pub.dev/packages/u_credit_card))  
 
