@@ -33,5 +33,4 @@
 [utpal-barman.github.io](https://utpal-barman.github.io/) / [utpals.com](https://utpals.com/)
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utpal-barman&theme=vision_friendly_dark)
-[![Check out utpal-barman's profile on stardev.io](https://stardev.io/developers/utpal-barman/badge/languages/locality.svg)](https://stardev.io/developers/utpal-barman)
+
