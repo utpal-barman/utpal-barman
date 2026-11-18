@@ -8,7 +8,7 @@
 
 ---
 🧑‍💻 **Principal Software Engineer** @ **Brain Station 23 PLC**  
-🇳🇴 Leading mobile engineering for **Norway-based clients** on an **AI-driven development lifecycle (AIDLC)** — agentic workflows built on Claude Code plan features, write the code and investigate issues  
+🗺️ Leading mobile engineering for **Europe-based clients** on an **AI-driven development lifecycle (AIDLC)** with Agentic Workflow — agentic workflows built on Claude Code plan features, write the code and investigate issues  
 👥 Growing a team of 7 mobile engineers · recruitment board member  
 📱 Nearly **8 years** building native and cross-platform iOS & Android apps  
 📍 **Location:** Dhaka, Bangladesh 🇧🇩  
